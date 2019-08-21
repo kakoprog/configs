@@ -1,2 +1,2 @@
-# configs
-config files
+# run
+`./build.sh`
