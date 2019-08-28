@@ -36,3 +36,4 @@ rm -rf ./fonts # fonts repoはフォントインストール後にはいらな�
 # chrome - https://www.google.com/intl/ja_jp/chrome/
 # google日本語入力 - https://www.google.co.jp/ime/
 # slack - AppStore
+# trello - AppStore
